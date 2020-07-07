@@ -25,3 +25,6 @@ Dataset used for predicting is taken from kaggle and the description of the vari
 20. Thinness 5-9- Prevalence of thinness among children for Age 5 to 9(%)
 21. Income Composition- Human Development Index in terms of income composition of resources(0-1)
 22. Schooling- Number of years of Schooling
+
+
+Project Demonstration Video Link : https://drive.google.com/file/d/1hMInmnBB_DKqGbJvzNKxyneWmBLCgAkb/view?usp=sharing
