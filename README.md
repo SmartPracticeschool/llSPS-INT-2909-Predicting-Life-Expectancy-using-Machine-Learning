@@ -28,3 +28,5 @@ Dataset used for predicting is taken from kaggle and the description of the vari
 
 
 Project Demonstration Video Link : https://drive.google.com/file/d/1hMInmnBB_DKqGbJvzNKxyneWmBLCgAkb/view?usp=sharing
+
+Project Feedback Video Link : https://drive.google.com/file/d/1rmnWMXZp3W6CwrSabm0TaCa8Jemp3Nbq/view?usp=sharing
